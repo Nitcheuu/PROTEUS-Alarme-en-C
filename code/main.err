@@ -1,0 +1,5 @@
+>>> Warning 216 "main.c" Line 348(0,1): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+>>> Warning 216 "main.c" Line 348(0,1): Interrupts disabled during call to prevent re-entrancy:  (@DIV3232)
+>>> Warning 216 "main.c" Line 348(0,1): Interrupts disabled during call to prevent re-entrancy:  (@PSTRINGCN_9600_31766_31767)
+      Memory usage:   ROM=14%      RAM=4% - 6%
+      0 Errors,  3 Warnings.
